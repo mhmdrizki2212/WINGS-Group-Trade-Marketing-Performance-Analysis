@@ -1,4 +1,4 @@
-# WINGS Group - Trade Marketing Performance Analysis
+# ![WINGS LOGO](asset/logo.png) WINGS Group - Trade Marketing Performance Analysis
 
 ## Client Background
 
