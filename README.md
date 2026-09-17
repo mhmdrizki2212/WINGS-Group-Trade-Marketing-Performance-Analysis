@@ -1,6 +1,6 @@
 # WINGS Group - Trade Marketing Performance Analysis
 
-## Client Backgrounf
+## Client Background
 
 WINGS Group is one of Indonesia’s leading FMCG companies with a wide range of consumer products and an extensive distribution network across multiple sales channels.
 
