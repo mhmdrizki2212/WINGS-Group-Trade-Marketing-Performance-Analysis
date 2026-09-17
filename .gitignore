@@ -1,0 +1,4 @@
+raw_data/
+clean_data/
+data/
+*.csv
