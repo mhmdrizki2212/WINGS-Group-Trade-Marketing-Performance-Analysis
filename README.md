@@ -1,31 +1,27 @@
-# ![WINGS LOGO](asset/logo.png) WINGS Group - Trade Marketing Performance Analysis
+![WINGS LOGO](asset/logo.png)
+
+# WINGS-Group Trade Marketing Executive Performance Analysis
 
 ## Client Background
 
-WINGS Group is one of Indonesia’s leading FMCG companies with a wide range of consumer products and an extensive distribution network across multiple sales channels.
+WINGS Group is one of Indonesia’s leading FMCG companies with a diverse portfolio of consumer products and an extensive distribution network across multiple sales channels.
 
-The company manages a large-scale commercial operation involving thousands of outlets, hundreds of SKUs, and various marketing activities. The Trade Marketing division utilizes data from sales transactions, product performance, outlet distribution, promotional activities, and digital campaigns to optimize business performance.
+The company operates a large-scale commercial ecosystem involving thousands of outlets, hundreds of SKUs, and various trade marketing activities. The Trade Marketing division utilizes business data from sales transactions, product performance, outlet distribution, and promotional activities to monitor performance and optimize business strategies.
 
-The available data includes:
-  - 500,000+ sales transactions containing product, outlet, quantity, revenue, and discount information.
-  - Hundreds of SKU records across multiple product categories.
-  - Thousands of outlet records across different channels.
-  - Promotion and digital campaign performance data including sales impact, CTR, and conversion metrics.
-
-This analysis project was conducted to help the Trade Marketing team evaluate sales performance, measure marketing effectiveness, and identify opportunities for business growth through data-driven insights.
+This project leverages 500,000+ sales transactions, product data across multiple categories, outlet records from different sales channels, and promotional activity data to provide insights into overall business performance. The analysis aims to help the Trade Marketing team understand sales trends, identify key revenue drivers, and discover opportunities for business improvement through data-driven decision-making.
 
 ## Business Problem
 
-The Trade Marketing team at WINGS Group manages various business activities, including sales performance monitoring, product distribution, outlet management, promotional activities, and digital marketing campaigns.
+The Trade Marketing division at WINGS Group is responsible for monitoring and improving business performance across various products, sales channels, and outlet networks. As the business continues to grow, the company generates a large volume of sales data that can be utilized to evaluate performance and support strategic decision-making.
 
-As the business grows, the company generates a large amount of data from different sources. However, these data sources have not been fully utilized to provide a comprehensive view of business performance and support strategic decision-making.
+However, the Trade Marketing Manager faces challenges in transforming available data into actionable insights to understand overall business performance and identify key factors driving revenue growth.
 
-The Trade Marketing team faces several challenges:
+The main business challenges include:
 
-  - Limited visibility into overall sales performance across different products, outlets, and channels.
-  - Difficulty identifying which SKUs and outlets contribute the most to revenue growth.
-  - Limited insights into underperforming products and outlets that require improvement strategies.
-  - Challenges in measuring whether promotional activities generate meaningful sales impact.
-  - Lack of understanding regarding how digital campaign performance contributes to customer engagement and sales outcomes.
+- Limited visibility into overall sales performance
+- Difficulty identifying key revenue drivers
+- Limited insights into channel performance
+- Challenges in evaluating outlet contribution
+- Difficulty monitoring sales trends and growth patterns
 
-Therefore, WINGS Group requires a data-driven analysis to evaluate Trade Marketing performance, identify key sales drivers, measure marketing effectiveness, and discover opportunities to improve future business strategies.
+Therefore, WINGS Group requires a data-driven analysis solution that enables the Trade Marketing Manager to monitor overall business performance, identify key sales drivers, and generate actionable insights to support strategic decision-making.
