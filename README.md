@@ -25,3 +25,15 @@ The main business challenges include:
 - Difficulty monitoring sales trends and growth patterns
 
 Therefore, WINGS Group requires a data-driven analysis solution that enables the Trade Marketing Manager to monitor overall business performance, identify key sales drivers, and generate actionable insights to support strategic decision-making.
+
+## Project Objective
+
+As a Data Analyst within the Trade Marketing division, this project focuses on transforming business data into actionable insights to help the Trade Marketing Manager monitor overall performance and support strategic decision-making. The objective of this analysis is to evaluate sales performance, identify key business drivers, and uncover factors that contribute to revenue growth.
+
+Through data analysis and visualization, this project aims to:
+
+- Monitor overall sales performance and identify business growth trends.
+- Analyze product and SKU contribution to determine key revenue drivers.
+- Evaluate sales channel performance and outlet contribution.
+- Provide actionable insights to support data-driven business strategies and performance improvement.
+
