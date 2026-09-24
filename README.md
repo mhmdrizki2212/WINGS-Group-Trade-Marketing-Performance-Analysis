@@ -37,72 +37,181 @@ Through data analysis and visualization, this project aims to:
 - Evaluate sales channel performance and outlet contribution.
 - Provide actionable insights to support data-driven business strategies and performance improvement.
 
-## Analysis Method
 
-The project follows an end-to-end data analytics workflow:
+# Dashboard Preview
 
-1. Data Preparation
-  - Generated and prepared sales transaction data.
-  - Performed data quality checking and data validation.
+The Power BI dashboard provides an overview of WINGS Group Trade Marketing performance, including:
 
-2. Data Cleaning
-  - Handled missing values, duplicate records, and inconsistent data formats.
-  - Prepared clean datasets for analysis.
-
-3. Exploratory Data Analysis (EDA)
-  - Analyzed sales trends, product contribution, channel performance, and regional distribution.
-
-4. Business Intelligence Dashboard
-  - Developed an interactive Power BI dashboard to monitor key performance indicators and business drivers.
+- Revenue performance
+- Sales trend analysis
+- Channel contribution
+- Product contribution
+- Regional performance
 
 
-## Key Business Insights
+![Dashboard Preview](Dashboard\DashboardPreview.jpg)
 
-### 1. Revenue Performance
-
-- Total revenue reached Rp614.47 M from 358.1 K transactions.
-- The business recorded 84.03 JT units sold across 1.2 K active outlets.
-
-Insight:
-Revenue performance is strongly supported by extensive outlet coverage and transaction volume.
 
 ---
 
-### 2. Channel Contribution
+# Key Business Insights
 
-- Grosir contributed the highest revenue share (35.20%).
-- Followed by Minimarket (22.92%) and Distributor (21.82%).
+## 1. Overall Business Performance
 
-Insight:
-The three major channels contributed nearly 80% of total revenue, indicating strong dependence on key distribution channels.
+The analysis shows:
 
-### 3. Product Revenue Drivers
+- Total Revenue: **Rp614.47 M**
+- Total Units Sold: **84.03 JT**
+- Total Transactions: **358.1 K**
+- Active Outlets: **1.2 K**
 
-- Fabric Care became the highest contributing category (24.28%).
-- Personal Care contributed 22.95%.
-- Kecap Sedaap generated the highest product revenue with Rp26.4 M.
 
-Insight:
-Several product categories and SKUs act as major revenue drivers and require consistent availability.
+![KPI Overview](asset/KPI.png)
 
-### 4. Regional Revenue Contribution
 
-Top revenue provinces:
+**Insight:**
+
+The business performance is supported by a large transaction volume and extensive outlet coverage across multiple sales channels.
+
+
+---
+
+## 2. Revenue Trend Performance
+
+Monthly revenue analysis shows fluctuations throughout 2026, with the highest performance occurring around March before stabilizing in the following months.
+
+
+![Revenue Trend](asset/RevenueTrends.png)
+
+
+**Insight:**
+
+Sales patterns indicate the importance of demand monitoring, inventory planning, and promotional timing to maintain revenue performance.
+
+
+---
+
+## 3. Channel Performance
+
+Revenue contribution by outlet type shows:
+
+- Grosir: **35.20%**
+- Minimarket: **22.92%**
+- Distributor: **21.82%**
+
+
+![Revenue by Outlet](asset/RevenuebyOutlet.png)
+
+
+**Insight:**
+
+The three major channels contribute nearly 80% of total revenue, highlighting the importance of maintaining strong distribution performance and channel relationships.
+
+
+---
+
+## 4. Product Performance
+
+Product category contribution:
+
+- Fabric Care: **24.28%**
+- Personal Care: **22.95%**
+- Home Care: **16.84%**
+
+
+![Revenue by Category](asset/RevenueByCategory.png)
+
+
+The top revenue-generating products include:
+
+- Kecap Sedaap: Rp26.4 M
+- SoKlin Liquid Detergent: Rp25.3 M
+- Baby Happy Diaper: Rp23.3 M
+- Serasoft Shampoo: Rp22.2 M
+- SoKlin Softener: Rp21.6 M
+
+
+![Top Products](asset/Top5Products.png)
+
+
+**Insight:**
+
+Several categories and products act as major revenue drivers, requiring consistent availability and effective promotional strategies.
+
+
+---
+
+## 5. Regional Performance
+
+Top revenue-contributing provinces:
 
 | Province | Revenue |
-|-|-|
+|---|---|
 | Jawa Barat | Rp80.8 M |
 | Jawa Timur | Rp65.7 M |
 | Sulawesi Selatan | Rp36.5 M |
+| Sumatera Selatan | Rp34.9 M |
+| Kalimantan Selatan | Rp34.7 M |
 
-Insight:
-Revenue is concentrated in several key provinces, creating opportunities for targeted regional strategies.
 
-## Business Recommendation
+![Top Province](asset/Top5Province.png)
+
+
+**Insight:**
+
+Revenue concentration in key provinces indicates opportunities for targeted regional strategies and market expansion.
+
+
+---
+
+# Business Recommendation
 
 | Area | Recommendation |
-|-|-|
-| Channel Strategy | Maintain strong execution in Grosir, Minimarket, and Distributor channels while improving growth channels. |
-| Product Strategy | Prioritize availability and promotion for high-performing categories and SKUs. |
-| Regional Strategy | Strengthen key provinces and explore expansion opportunities in other regions. |
-| Sales Planning | Use historical trends for inventory and promotion planning. |
+|---|---|
+| Channel Strategy | Maintain strong execution in major channels while improving growth opportunities in smaller channels. |
+| Product Strategy | Prioritize availability and promotion of high-performing categories and products. |
+| Regional Strategy | Strengthen key markets and explore expansion opportunities in other regions. |
+| Sales Planning | Utilize historical sales trends for inventory and promotional planning. |
+
+
+---
+
+# 5. Skills & Tools Used
+
+## Technical Skills
+
+- Python
+  - Data Preparation
+  - Data Cleaning
+  - Exploratory Data Analysis
+
+- SQL
+  - Data Querying
+  - Business Analysis
+
+- Power BI
+  - Data Visualization
+  - Dashboard Development
+  - Business Performance Monitoring
+
+
+## Tools
+
+| Tool | Purpose |
+|---|---|
+| Python | Data processing and analysis |
+| PostgreSQL | Data storage and querying |
+| SQL | Business analysis |
+| Power BI | Interactive dashboard development |
+
+
+---
+
+# 6. Next Steps
+
+Future improvements for this project:
+
+- Integrate real-time sales data pipeline.
+- Develop customer and outlet segmentation analysis.
+- Evaluate promotional effectiveness using additional business metrics.
+
