@@ -37,3 +37,72 @@ Through data analysis and visualization, this project aims to:
 - Evaluate sales channel performance and outlet contribution.
 - Provide actionable insights to support data-driven business strategies and performance improvement.
 
+## Analysis Method
+
+The project follows an end-to-end data analytics workflow:
+
+1. Data Preparation
+  - Generated and prepared sales transaction data.
+  - Performed data quality checking and data validation.
+
+2. Data Cleaning
+  - Handled missing values, duplicate records, and inconsistent data formats.
+  - Prepared clean datasets for analysis.
+
+3. Exploratory Data Analysis (EDA)
+  - Analyzed sales trends, product contribution, channel performance, and regional distribution.
+
+4. Business Intelligence Dashboard
+  - Developed an interactive Power BI dashboard to monitor key performance indicators and business drivers.
+
+
+## Key Business Insights
+
+### 1. Revenue Performance
+
+- Total revenue reached Rp614.47 M from 358.1 K transactions.
+- The business recorded 84.03 JT units sold across 1.2 K active outlets.
+
+Insight:
+Revenue performance is strongly supported by extensive outlet coverage and transaction volume.
+
+---
+
+### 2. Channel Contribution
+
+- Grosir contributed the highest revenue share (35.20%).
+- Followed by Minimarket (22.92%) and Distributor (21.82%).
+
+Insight:
+The three major channels contributed nearly 80% of total revenue, indicating strong dependence on key distribution channels.
+
+### 3. Product Revenue Drivers
+
+- Fabric Care became the highest contributing category (24.28%).
+- Personal Care contributed 22.95%.
+- Kecap Sedaap generated the highest product revenue with Rp26.4 M.
+
+Insight:
+Several product categories and SKUs act as major revenue drivers and require consistent availability.
+
+### 4. Regional Revenue Contribution
+
+Top revenue provinces:
+
+| Province | Revenue |
+|-|-|
+| Jawa Barat | Rp80.8 M |
+| Jawa Timur | Rp65.7 M |
+| Sulawesi Selatan | Rp36.5 M |
+
+Insight:
+Revenue is concentrated in several key provinces, creating opportunities for targeted regional strategies.
+
+## Business Recommendation
+
+| Area | Recommendation |
+|-|-|
+| Channel Strategy | Maintain strong execution in Grosir, Minimarket, and Distributor channels while improving growth channels. |
+| Product Strategy | Prioritize availability and promotion for high-performing categories and SKUs. |
+| Regional Strategy | Strengthen key provinces and explore expansion opportunities in other regions. |
+| Sales Planning | Use historical trends for inventory and promotion planning. |
