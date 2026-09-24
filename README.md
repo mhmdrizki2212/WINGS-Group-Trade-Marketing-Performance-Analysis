@@ -49,8 +49,7 @@ The Power BI dashboard provides an overview of WINGS Group Trade Marketing perfo
 - Regional performance
 
 
-![Dashboard Preview](Dashboard\DashboardPreview.jpg)
-
+![Dashboard Preview](Dashboard/DashboardPreview.jpg)
 
 ---
 
